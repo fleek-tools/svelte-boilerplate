@@ -1,5 +1,6 @@
 # Vite x Svelte + Fleek Starter Kit
-![Fleek 2024 Rebrand Svelte Boilerplate](https://github.com/fleek-tools/svelte-template/assets/74613246/957de231-5650-4cbd-a684-f71ccd18e39f)
+![Fleek 2024 Rebrand Svelte Boilerplate](https://github.com/fleek-tools/svelte-template/assets/74613246/1dcd52a1-1615-4f6d-abf5-6328474f8a2f)
+
 
 
 ## 🚀 Project Structure
